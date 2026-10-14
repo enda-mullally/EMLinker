@@ -1,0 +1,1 @@
+EM Linker collects no user data beyond the data collected by the Windows App SDK.
