@@ -20,7 +20,7 @@ EM Linker is a symbolic link or soft link Manager for Windows 11. It helps you m
 
 - **User Links** lets you manage symbolic links located in your Home folder.
 - **System Links** shows special (system & hidden) links located in your Home folder. These links are read-only and shown for informational purposes only.
-- **Global Links** tracks links created with EM Linker anywhere on your computer (for example, at `C:\`, `C:\Program files` or evan a Folder on another drive). Creating links in protected locations may require administrator permission.
+- **Global Links** tracks links created with EM Linker anywhere on your system (for example, at `C:\`, `C:\Program files` or evan a Folder on another Drive). Creating links in protected locations may require administrator permission.
 
 
 ## Screenshots
