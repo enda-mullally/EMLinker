@@ -20,7 +20,7 @@ EM Linker is a symbolic link or soft link Manager for Windows 11. It helps you m
 
 - **User Links** lets you manage symbolic links located in your Home folder.
 - **System Links** shows system links located in your Home folder. These links are read-only and shown for informational purposes only.
-- **Global Links** tracks system links created with EM Linker anywhere on your computer, including outside your Home folder (for example, at `C:\` or on another fixed drive). Creating links in protected locations may require administrator permission.
+- **Global Links** tracks system links created with EM Linker anywhere on your computer, including outside your Home folder (for example, at `C:\` or on another fixed drive).
 
 
 ## Screenshots
@@ -30,19 +30,23 @@ EM Linker is a symbolic link or soft link Manager for Windows 11. It helps you m
 </p>
 
 <p align="center">
-  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_02_System_Links.png">
+  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_02_Global_Links.png">
 </p>
 
 <p align="center">
-  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_03_Add_Link.png">
+  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_03_System_Links.png">
 </p>
 
 <p align="center">
-  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_04_Settings_Dark.png">
+  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_04_Add_Link.png">
 </p>
 
 <p align="center">
-  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_05_Settings_Light.png">
+  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_05_Settings_Dark.png">
+</p>
+
+<p align="center">
+  <img align="center" style="border-radius: 8px; width: 100%; height: 100%;" src="docs/assets/Store_06_Settings_Light.png">
 </p>
 
 <br />
