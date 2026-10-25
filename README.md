@@ -52,6 +52,6 @@ EM Linker is a symbolic link or soft link Manager for Windows 11. This app helps
 
 ## Release history
 
-### 24/Oct/2026 ###
+### 25/Oct/2026 ###
 v1.0 Build(8)
   - First public release. Enjoy!
